@@ -62,7 +62,7 @@ const siteConfig = {
   wrapPagesHTML: true,
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/basics-intro-web-dev/' /* base url for your project */,
-  projectName: 'basics-intro-web-dev',
+  projectName: 'test-site',
   headerLinks: [
     {doc: 'Extras/slide-library', label: 'Slides'},
     {doc: 'Extras/video-library', label: 'Videos'},
