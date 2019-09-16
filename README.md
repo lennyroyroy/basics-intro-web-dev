@@ -1,4 +1,4 @@
-# docusaurus-base
+# The Basics: Intro to Web Development
 
 Netlify template for Docusaurus
 

@@ -1,10 +1,47 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "The Basics": [
+        "Introduction/Introduction"
+    ],
+    "Intro to HTML": [
+        "HTML/1-getting-started",
+        "HTML/14-syntax",
+        "HTML/15-in-action",
+        "HTML/2-paragraph",
+        "HTML/3-heading-tags",
+        "HTML/4-strong-italic",
+        "HTML/5-line-break",
+        "HTML/6-link-tags",
+        "HTML/17-layout-review",
+        "HTML/8-attributes",
+        "HTML/9-image",
+        "HTML/10-lists",
+        "HTML/11-review",
+        "HTML/12-challenge",
+        "HTML/13-advanced",
+        "HTML/16-resources"
+    ],
+        "Intro to CSS": [
+        "CSS/2-1-css-syntax",
+        "CSS/2-2-syntax-depth",
+        "CSS/2-3-css-color",
+        "CSS/2-4-css-background-color"
+    ],
+        "Layout": [
+            "Layout/1-css-layout",
+            "Layout/2-css-non-semantic"
+        ],
+        "HTML Structure": [
+            "Structure/4-2-html-tag"
+        ],
+        "CSS Flebox": [
+            "Essential_Tools/tools3"
+        ],
+        "Responsive Design": [
+            "Essential_Tools/tools4"
+        ],
+        "Review & Final Project": [
+            "Essential_Tools/tools5"
+        ]
   }
 }

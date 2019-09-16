@@ -3,20 +3,158 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
-    "doc1": "Latin-ish",
-    "Example Page": "Example Page",
-    "doc2": "document number 2",
-    "doc3": "This is document number 3",
-    "doc4": "Other Document",
-    "doc5": "Fifth Document",
-    "Docs": "Docs",
-    "API": "API",
-    "Help": "Help",
-    "Blog": "Blog",
-    "Docusaurus": "Docusaurus",
-    "First Category": "First Category",
-    "Second Category": "Second Category"
+    "tagline": "Learn the basics of HTMl & CSS with Lennyroy. In this 8 week course we will dive deep into the foundations of modern web technology.",
+    "docs": {
+      "CSS/2-1-css-syntax": {
+        "title": "CSS Syntax & The Style Tag"
+      },
+      "CSS/2-2-syntax-depth": {
+        "title": "Breaking down CSS Rule Syntax"
+      },
+      "CSS/2-3-css-color": {
+        "title": "CSS Color"
+      },
+      "CSS/2-4-css-background-color": {
+        "title": "CSS Background Color"
+      },
+      "CSS/resources/01-cheat-sheet": {
+        "title": "CSS Cheat Sheet"
+      },
+      "CSS/resources/02-resources": {
+        "title": "Resources",
+        "sidebar_label": "Resources"
+      },
+      "doc1": {
+        "title": "doc1"
+      },
+      "Essential_Tools/1-template": {
+        "title": "$title"
+      },
+      "Essential_Tools/tools": {
+        "title": "Essential Tools for Web Developers"
+      },
+      "Essential_Tools/tools2": {
+        "title": "Essential_Tools/tools2"
+      },
+      "Essential_Tools/tools3": {
+        "title": "Essential Tools for Web Developers"
+      },
+      "Essential_Tools/tools4": {
+        "title": "Essential Tools for Web Developers"
+      },
+      "Essential_Tools/tools5": {
+        "title": "Essential Tools for Web Developers"
+      },
+      "Extras/challenges": {
+        "title": "Challenges",
+        "sidebar_label": "Challenges"
+      },
+      "Extras/slide-library": {
+        "title": "Slide Decks",
+        "sidebar_label": "Slide Library"
+      },
+      "Extras/video-library": {
+        "title": "Video Library",
+        "sidebar_label": "Video Library"
+      },
+      "HTML/1-getting-started": {
+        "title": "First Steps in HTML"
+      },
+      "HTML/10-lists": {
+        "title": "List Tags"
+      },
+      "HTML/11-review": {
+        "title": "Review"
+      },
+      "HTML/12-challenge": {
+        "title": "HTML Tags Challenge"
+      },
+      "HTML/13-advanced": {
+        "title": "Advanced Challenge"
+      },
+      "HTML/14-syntax": {
+        "title": "HTML Syntax"
+      },
+      "HTML/15-in-action": {
+        "title": "HTML Tags In Action"
+      },
+      "HTML/16-resources": {
+        "title": "HTML Resources & Extras"
+      },
+      "HTML/17-layout-review": {
+        "title": "Link & Attribute Review"
+      },
+      "HTML/2-paragraph": {
+        "title": "The Paragraph Tag"
+      },
+      "HTML/3-heading-tags": {
+        "title": "Heading Tags"
+      },
+      "HTML/4-strong-italic": {
+        "title": "Strong & Italic Tags"
+      },
+      "HTML/5-line-break": {
+        "title": "Line Break & Horizontal Rule"
+      },
+      "HTML/6-link-tags": {
+        "title": "Link Tags"
+      },
+      "HTML/8-attributes": {
+        "title": "Attributes"
+      },
+      "HTML/9-image": {
+        "title": "Image Tags"
+      },
+      "HTML/resources/01-cheat-sheet": {
+        "title": "HTML Cheat Sheet"
+      },
+      "HTML/resources/02-resources": {
+        "title": "Resources"
+      },
+      "Introduction/contents": {
+        "title": "Start Back Up!",
+        "sidebar_label": "Table of Contents"
+      },
+      "Introduction/Introduction": {
+        "title": "Course Introduction"
+      },
+      "Layout/1-css-layout": {
+        "title": "Layout Overview",
+        "sidebar_label": "Layout Overview"
+      },
+      "Layout/2-css-non-semantic": {
+        "title": "Creating a Layout - Non Semantic",
+        "sidebar_label": "Creating a Layout - Non Semantic"
+      },
+      "static/shortcuts": {
+        "title": "static/shortcuts"
+      },
+      "Structure/4-2-html-tag": {
+        "title": "The HTML Tag"
+      },
+      "Template/1-template": {
+        "title": "$title"
+      },
+      "templates/doc-tempate": {
+        "title": "templates/doc-tempate"
+      }
+    },
+    "links": {
+      "Slides": "Slides",
+      "Videos": "Videos",
+      "Challenges": "Challenges",
+      "Blog": "Blog"
+    },
+    "categories": {
+      "The Basics": "The Basics",
+      "Intro to HTML": "Intro to HTML",
+      "Intro to CSS": "Intro to CSS",
+      "Layout": "Layout",
+      "HTML Structure": "HTML Structure",
+      "CSS Flebox": "CSS Flebox",
+      "Responsive Design": "Responsive Design",
+      "Review & Final Project": "Review & Final Project"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
