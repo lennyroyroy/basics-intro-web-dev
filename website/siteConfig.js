@@ -61,7 +61,7 @@ const siteConfig = {
   docsSideNavCollapsible: true,
   wrapPagesHTML: true,
   url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/basics-intro-web-dev/' /* base url for your project */,
+  baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
   headerLinks: [
     {doc: 'Extras/slide-library', label: 'Slides'},
