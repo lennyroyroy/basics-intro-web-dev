@@ -31,9 +31,9 @@ A collection of different HTML tags
 
 Looking ahead at some of the tags we will be learning is this lesson.
 
-<iframe src="[https://codesandbox.io/embed/html-in-action-pnjzr?fontsize=14&view=editor](https://codesandbox.io/embed/html-in-action-pnjzr?fontsize=14&view=editor "https://codesandbox.io/embed/html-in-action-pnjzr?fontsize=14&view=editor")" title="HTML in Action" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<iframe src="https://codesandbox.io/embed/html-in-action-pnjzr?fontsize=14&view=editor" title="HTML in Action" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
-<a href="[https://codesandbox.io/s/html-in-action-pnjzr?fontsize=14&view=editor](https://codesandbox.io/s/html-in-action-pnjzr?fontsize=14&view=editor "https://codesandbox.io/s/html-in-action-pnjzr?fontsize=14&view=editor")" target="_blank" class="button live-button">Open Code Sandbox</a>
+<a href="https://codesandbox.io/s/html-in-action-pnjzr?fontsize=14&view=editor" target="_blank" class="button live-button">Open Code Sandbox</a>
 
 </section>
 
