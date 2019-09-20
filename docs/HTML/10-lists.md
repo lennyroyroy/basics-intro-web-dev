@@ -38,7 +38,7 @@ See the Pen <a href='https://codepen.io/lennyroycodes/pen/XLzjvo/'>The Basics: L
 (<a href='https://codepen.io/lennyroycodes'>lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<a href="https://codepen.io/lennyroycodes/pen/XLzjvo" target="_blank" class="button live-button">Open Code Sandbox</a>
+<a href="https://codepen.io/lennyroycodes/pen/XLzjvo" target="_blank" class="button live-button">Open Codepen</a>
 
 </section>
 

@@ -40,7 +40,7 @@ See the Pen <a href='https://codepen.io/lennyroycodes/pen/bPpRob/'>The Basics: S
 (<a href='https://codepen.io/lennyroycodes'>@lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<a href="$basics_direct_codepen_url" target="_blank" class="button live-button">Open Code Sandbox</a>
+<a href="$basics_direct_codepen_url" target="_blank" class="button live-button">Open Codepen</a>
 
 </section>
 

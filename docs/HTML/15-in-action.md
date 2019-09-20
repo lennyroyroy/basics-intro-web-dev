@@ -31,9 +31,12 @@ A collection of different HTML tags
 
 Looking ahead at some of the tags we will be learning is this lesson.
 
-<iframe src="https://codesandbox.io/embed/html-in-action-pnjzr?fontsize=14&view=editor" title="HTML in Action" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<iframe height="650" style="width: 100%;" scrolling="no" title="The Basics: HTML in Action" src="//codepen.io/lennyroycodes/embed/preview/qGgaab/?height=300&theme-id=37020&default-tab=html,result&editable=true" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/lennyroycodes/pen/qGgaab/'>The Basics: HTML in Action</a> by lennyroy
+  (<a href='https://codepen.io/lennyroycodes'>@lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
-<a href="https://codesandbox.io/s/html-in-action-pnjzr?fontsize=14&view=editor" target="_blank" class="button live-button">Open Code Sandbox</a>
+<a href="https://codepen.io/lennyroycodes/pen/qGgaab" target="_blank" class="button live-button">Open Codepen</a>
 
 </section>
 
