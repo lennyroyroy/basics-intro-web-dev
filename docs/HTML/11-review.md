@@ -36,7 +36,7 @@ See the Pen <a href='https://codepen.io/lennyroycodes/pen/PMbJMx/'>The Basics: R
 (<a href='https://codepen.io/lennyroycodes'>lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<a href="https://codepen.io/lennyroycodes/pen/PMbJMx" target="_blank" class="button live-button">Open Codepen</a>
+<a href="https://codepen.io/lennyroycodes/pen/PMbJMx" target="_blank" class="button live-button">Open Code Sandbox</a>
 
 </section>
 

@@ -38,7 +38,7 @@ look up "target="_blank" and try to figure out how to open a new tab. Add one of
   (<a href='https://codepen.io/lennyroycodes'>@lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<a href="https://codepen.io/lennyroycodes/pen/MMvqML" target="_blank" class="button live-button">Open Codepen</a>
+<a href="https://codepen.io/lennyroycodes/pen/MMvqML" target="_blank" class="button live-button">Open Code Sandbox</a>
 
 </section>
 

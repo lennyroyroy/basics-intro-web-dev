@@ -25,12 +25,9 @@ Learn the layout and features of this course. We will be diving into how HTML wo
 
 What did you have for breakfast today?
 
-<iframe height="650" style="width: 100%;" scrolling="no" title="The Basics #1" src="//codepen.io/lennyroycodes/embed/preview/PvVzJz/?height=300&theme-id=37020&default-tab=html,result&editable=true" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/lennyroycodes/pen/PvVzJz/'>The Basics #1</a> by lennyroy
-  (<a href='https://codepen.io/lennyroycodes'>@lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<iframe src="https://codesandbox.io/embed/first-steps-in-html-qp64s?fontsize=14&view=editor" title="First Steps in HTML" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
-<a href="https://codepen.io/lennyroycodes/pen/PvVzJz" target="_blank" class="button live-button">Open Codepen</a>
+<a href="https://codesandbox.io/s/first-steps-in-html-qp64s?fontsize=14" target="_blank" class="button live-button">Open Code Sandbox</a>
 
 </section>
 

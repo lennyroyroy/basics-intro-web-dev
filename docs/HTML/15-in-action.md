@@ -36,7 +36,7 @@ Looking ahead at some of the tags we will be learning is this lesson.
   (<a href='https://codepen.io/lennyroycodes'>@lennyroycodes</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-<a href="https://codepen.io/lennyroycodes/pen/qGgaab" target="_blank" class="button live-button">Open Codepen</a>
+<a href="https://codepen.io/lennyroycodes/pen/qGgaab" target="_blank" class="button live-button">Open Code Sandbox</a>
 
 </section>
 
