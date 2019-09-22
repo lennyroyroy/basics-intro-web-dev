@@ -64,7 +64,7 @@ const siteConfig = {
   baseUrl: '/test-site/' /* base url for your project */,
   projectName: 'test-site',
   headerLinks: [
-    {doc: 'Extras/slide-library', label: 'Slides'},
+    { page: "slides", label: "Slides" },
     {doc: 'Extras/video-library', label: 'Videos'},
     {doc: 'Extras/challenges', label: 'Challenges'},
     { blog: true, label: 'Blog' }

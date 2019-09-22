@@ -430,6 +430,24 @@ input:checked + .slider:before {
 /*##################################################
 #                                                  #
 #                                                  #
+#          Slide Page Styles                       #            
+#                                                  #
+#                                                  #
+###################################################*/
+
+.slide-preview-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas: ". . ." ". . ." ". . .";
+  grid-gap: 20px;
+}
+
+
+
+/*##################################################
+#                                                  #
+#                                                  #
 #          Buy Me Coffee Styles                    #            
 #                                                  #
 #                                                  #
@@ -487,6 +505,26 @@ input:checked + .slider:before {
 	.slide-deck-gallery img{
 	max-width:100%;
 	}
+}
+
+@media only screen and (max-width: 1200px) {
+  .slide-preview-container h2{
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+    .slide-preview-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: ". ." ". .";
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .slide-preview-container h2{
+    font-size: 1rem;
+  }
 }
 
 @media only screen and (max-width: 680px) {
@@ -551,7 +589,17 @@ input:checked + .slider:before {
 		margin-right: 0px;
 		margin-top: 20px;
 	}
+
 }
+
+@media only screen and (max-width: 550px) {
+
+  .slide-preview-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: ".";
+  }
+}  
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 	hr:first-of-type{
