@@ -61,7 +61,7 @@ const siteConfig = {
   docsSideNavCollapsible: true,
   wrapPagesHTML: true,
   url: 'https://thebasics.dev' /* your website url */,
-  baseUrl: '/intro-to-web-development/' /* base url for your project */,
+  baseUrl: '/' /* base url for your project */,
   projectName: 'basics-intro-web-dev',
   headerLinks: [
     { page: "slides", label: "Slides" },
