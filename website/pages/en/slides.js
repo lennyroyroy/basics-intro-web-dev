@@ -39,7 +39,7 @@ class Slides extends React.Component {
 
               <div>
                 <h2> Lesson 1: Intro to HTML </h2>
-                <a href="https://slides.com/lennyroyroy/deck" target="_blank">     
+                <a href="https://lennyroyroy.github.io/basics-presentations/html-slides" target="_blank">     
                 <img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/html-1.png"/>
                 </a>
               </div> 
