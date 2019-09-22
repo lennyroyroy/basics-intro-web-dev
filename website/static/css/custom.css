@@ -443,6 +443,14 @@ input:checked + .slider:before {
   grid-gap: 20px;
 }
 
+.slide-preview-container-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: ". . " ". . " ;
+  grid-gap: 20px;
+}
+
 
 
 /*##################################################

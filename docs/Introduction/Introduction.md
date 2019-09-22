@@ -144,96 +144,90 @@ Social Media: <a href="">@lennyroyroy</a>
 </section>
 
 
-<section class="inner-section intro-images"> 
+<section class="inner-section"> 
 
 ## Slide Deck Gallery 
 
-<div class="slide-deck-gallery">
+ <div class="slide-preview-container slide-preview-container-inner">
 
-<div> 
-    <span> Lesson 1: Intro to HTML </span>
-    <a href="https://slides.com/lennyroyroy/deck/" target="_blank">     
-    <img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/1.png"/>
-    </a>
+<div>
+<h2> Introduction</h2>
+<a href="https://slides.com/lennyroyroy/deck-3#/" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/intro.png"/>
+</a>
 </div>
 
 <div>
-    <span> Lesson 2: Intro to CSS  </span>
-    <a href="https://slides.com/lennyroyroy/deck-1#/" target="_blank">   
-    <img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/2.png"/>
-    </a>
-</div>  
+<h2> Creating Accounts</h2>
+<a href="https://slides.com/lennyroyroy/deck-5#/" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/accounts-10.png"/>
+</a>
+</div> 
+
+<div>
+<h2> Lesson 1: Intro to HTML </h2>
+<a href="https://slides.com/lennyroyroy/deck" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/html-1.png"/>
+</a>
+</div> 
+
+<div>
+<h2> Lesson 2: Intro to CSS  </h2>
+<a href="https://slides.com/lennyroyroy/deck-1" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/css-2.png"/>
+</a>
+</div>
+
+<div>
+<h2> Lesson 3: Layout </h2>
+<a href="https://slides.com/lennyroyroy/deck-4" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/layout-3.png"/>
+</a>
+</div> 
+
+<div>
+<h2> Lesson 4: CSS Class & ID </h2>
+<a href="https://slides.com/lennyroyroy/deck-4-15" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/class-4.png"/>
+</a>
+</div> 
+<div>
+<h2> Lesson 5: Glitch Walkthrough </h2>
+<a href="https://slides.com/lennyroyroy/deck-6" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/glitch-5.png"/>
+</a>
+</div>
+
+<div>
+<h2> Lesson 6: HTML Structure </h2>
+<a href="https://slides.com/lennyroyroy/deck-7" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/struc-6.png"/>
+</a>
+</div> 
+
+<div>
+<h2> Lesson 7: Flexbox </h2>
+<a href="https://slides.com/lennyroyroy/deck-8" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/flex-7.png"/>
+</a>
+</div> 
+
+<div>
+<h2> Lesson 8: Responsive Design </h2>
+<a href="https://slides.com/lennyroyroy/deck-9" target="_blank">     
+<img src="https://raw.githubusercontent.com/lennyroyroy/basics-intro-web-dev/master/website/static/img/res-8.png"/>
+</a>
+</div> 
 
 </div>
 
-<div class="slide-deck-gallery">
-
-<div>
-<span>Extra: Creating Accounts</span>
-<a href="https://slides.com/lennyroyroy/deck-5#/" target="_blank">       
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/accounts.png"/>
-</a>
-</div>    
-<div> 
-<span>Extra: Creating Glitch Tutorial</span>
-<a href="https://slides.com/lennyroyroy/deck-6#/" target="_blank">     
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/glitch.png"/>
-</a>
-</div>  
 
 
-</div>
-<div class="slide-deck-gallery">
-
-<div>
-<span> Lesson 3: Layout  </span>
-<a href="https://slides.com/lennyroyroy/deck-4#/" target="_blank">       
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/3.png"/>
-</a>
-</div>    
-<div>
-<span> Lesson 4: HTML Structure  </span>
-<a href="https://slides.com/lennyroyroy/deck-7#/" target="_blank">    
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/4.png"/>
-</a>
-</div>  
 
 
-</div>
-<div class="slide-deck-gallery">
-
-<div>
-<span> Lesson 5: Flexbox  </span>
-<a href="https://slides.com/lennyroyroy/deck-8#/" target="_blank">       
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/5.png"/>
-</a>
-</div>    
-<div>
-<span> Lesson 6: Responsive Design  </span>
-<a href="https://slides.com/lennyroyroy/deck-9#/" target="_blank">    
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/6.png"/>
-</a>
-</div>  
 
 
-</div>
-<div class="slide-deck-gallery">
 
-<div>
-<span> Lesson 7: Responsive Design  </span>
-<a href="https://slides.com/lennyroyroy/deck-10#/" target="_blank">       
-<img src="https://raw.githubusercontent.com/lennyroyroy/basics-image/master/Slides%20Thumbs/7.1.png"/>
-</a>
-</div>    
-<div>
-<span>Good luck!</span>
-<a href="https://lennyroyroy.github.io/the-basics/" target="_blank">    
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/1075364/images/6479528/pasted-from-clipboard.png"/>
-</a>
-</div>  
-
-
-</div>
 </section>
 
 
