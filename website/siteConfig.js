@@ -60,9 +60,9 @@ const siteConfig = {
   tagline_display: 'Intro to Web Development',
   docsSideNavCollapsible: true,
   wrapPagesHTML: true,
-  url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  url: 'https://thebasics.dev' /* your website url */,
+  baseUrl: '/intro-to-web-development/' /* base url for your project */,
+  projectName: 'basics-intro-web-dev',
   headerLinks: [
     { page: "slides", label: "Slides" },
     {doc: 'Extras/video-library', label: 'Videos'},
