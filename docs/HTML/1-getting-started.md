@@ -23,7 +23,7 @@ Learn the layout and features of this course. We will be diving into how HTML wo
 
 ### Codepen Lesson 
 
-What did you have for breakfast today?
+What did you have for breakfast today? 
 
 <iframe height="650" style="width: 100%;" scrolling="no" title="The Basics #1" src="//codepen.io/lennyroycodes/embed/preview/PvVzJz/?height=300&theme-id=37020&default-tab=html,result&editable=true" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/lennyroycodes/pen/PvVzJz/'>The Basics #1</a> by lennyroy
